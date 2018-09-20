@@ -1,1 +1,1 @@
-# s4hana-sdk-example
+# myneoproject
